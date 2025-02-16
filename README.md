@@ -1,4 +1,4 @@
-# XOR Logic with a Neural Network on a Raspberry Pi Pico
+### XOR Logic with a Neural Network on a Raspberry Pi Pico
 
 Files that will be add to this repository between 1-7 March 2025:
 1) XOR_NN_RaspPiPico.pdf (Project documentation)
