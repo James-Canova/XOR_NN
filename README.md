@@ -1,17 +1,17 @@
 ### XOR Logic with a Neural Network on a Raspberry Pi Pico
 
-Files that will be add to this repository between 1-7 March 2025:
-1) XOR_NN_RaspPiPico_Vx.pdf (Project documentation)
+
+1) XOR_NN_RaspPiPico_V0.pdf (Project documentation)
 2) main.py (MicroPython file for Raspberry Pi Pico)
 3) XOR_nn.ipynb  (same as 2 but modified for interactive input and plotting)
-4) AND_perceptron.ipynb  
-5) *.uf2 file for MicroPython with ulab
+4) AND_perceptron.ipynb  (demonstrating delta rule)
+5) RPI_PICO.uf2 for MicroPython with ulab (including Numpy) library
 
 
 
 Notes:
 
-a) *uf2 file from:
+a) RPI_PICO.uf2 from:
 https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 
 
